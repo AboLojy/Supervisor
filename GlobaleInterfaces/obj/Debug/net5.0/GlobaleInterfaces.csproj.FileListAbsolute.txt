@@ -1,0 +1,12 @@
+D:\Development\Tests\Supervisor\GlobaleInterfaces\bin\Debug\net5.0\GlobaleInterfaces.deps.json
+D:\Development\Tests\Supervisor\GlobaleInterfaces\bin\Debug\net5.0\GlobaleInterfaces.dll
+D:\Development\Tests\Supervisor\GlobaleInterfaces\bin\Debug\net5.0\ref\GlobaleInterfaces.dll
+D:\Development\Tests\Supervisor\GlobaleInterfaces\bin\Debug\net5.0\GlobaleInterfaces.pdb
+D:\Development\Tests\Supervisor\GlobaleInterfaces\obj\Debug\net5.0\GlobaleInterfaces.csprojAssemblyReference.cache
+D:\Development\Tests\Supervisor\GlobaleInterfaces\obj\Debug\net5.0\GlobaleInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Tests\Supervisor\GlobaleInterfaces\obj\Debug\net5.0\GlobaleInterfaces.AssemblyInfoInputs.cache
+D:\Development\Tests\Supervisor\GlobaleInterfaces\obj\Debug\net5.0\GlobaleInterfaces.AssemblyInfo.cs
+D:\Development\Tests\Supervisor\GlobaleInterfaces\obj\Debug\net5.0\GlobaleInterfaces.csproj.CoreCompileInputs.cache
+D:\Development\Tests\Supervisor\GlobaleInterfaces\obj\Debug\net5.0\GlobaleInterfaces.dll
+D:\Development\Tests\Supervisor\GlobaleInterfaces\obj\Debug\net5.0\ref\GlobaleInterfaces.dll
+D:\Development\Tests\Supervisor\GlobaleInterfaces\obj\Debug\net5.0\GlobaleInterfaces.pdb
